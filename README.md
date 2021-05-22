@@ -3,12 +3,12 @@
 
 App to build both android and ios its an app where i upload a photo and add a voice over before to share on social network.
 * upload an image
-record an audio
-post image with latyer audio in SN
-image background
-sound recorded play out
-sound graphaudio show on image
-text to speech appear on image as a layer for people to read if sound is off
+* record an audio
+* post image with latyer audio in SN
+* image background
+* sound recorded play out
+* sound graphaudio show on image
+* text to speech appear on image as a layer for people to read if sound is off
 
 <table style="border: none;">  
 <!--     <tr>
